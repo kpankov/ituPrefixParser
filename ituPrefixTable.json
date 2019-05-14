@@ -1,0 +1,1720 @@
+{
+    "countries": [
+        {
+            "name": "United States",
+            "code": "US",
+            "flag": "🇺🇸",
+            "prefix": "^(([A][A-L].*)|([K].*)|([N].*)|([W].*))"
+        },
+        {
+            "name": "Spain",
+            "code": "ES",
+            "flag": "🇪🇸",
+            "prefix": "^(([A][M-O].*)|([E][A-H].*))"
+        },
+        {
+            "name": "Pakistan",
+            "code": "PK",
+            "flag": "🇵🇰",
+            "prefix": "^(([A][P-S].*)|([6][P-S].*))"
+        },
+        {
+            "name": "India",
+            "code": "IN",
+            "flag": "🇮🇳",
+            "prefix": "^(([A][T-W].*)|([V][T-W].*)|([8][T-Y].*))"
+        },
+        {
+            "name": "Australia",
+            "code": "AU",
+            "flag": "🇦🇺",
+            "prefix": "^(([A][X].*)|([V][H-N].*)|([V][Z].*))"
+        },
+        {
+            "name": "Argentina",
+            "code": "AR",
+            "flag": "🇦🇷",
+            "prefix": "^(([A][Y-Z].*)|([L][O-W].*)|([L][2-9].*))"
+        },
+        {
+            "name": "Botswana",
+            "code": "BW",
+            "flag": "🇧🇼",
+            "prefix": "^(([A][2].*)|([8][O].*))"
+        },
+        {
+            "name": "Tonga",
+            "code": "TO",
+            "flag": "🇹🇴",
+            "prefix": "^([A][3].*)"
+        },
+        {
+            "name": "Oman",
+            "code": "OM",
+            "flag": "🇴🇲",
+            "prefix": "^([A][4].*)"
+        },
+        {
+            "name": "Bhutan",
+            "code": "BT",
+            "flag": "🇧🇹",
+            "prefix": "^([A][5].*)"
+        },
+        {
+            "name": "United Arab Emirates",
+            "code": "AE",
+            "flag": "🇦🇪",
+            "prefix": "^([A][6].*)"
+        },
+        {
+            "name": "Qatar",
+            "code": "QA",
+            "flag": "🇶🇦",
+            "prefix": "^([A][7].*)"
+        },
+        {
+            "name": "Liberia",
+            "code": "LR",
+            "flag": "🇱🇷",
+            "prefix": "^(([A][8].*)|([D][5].*)|([E][L].*)|([5][L-M].*)|([6][Z].*))"
+        },
+        {
+            "name": "Bahrain",
+            "code": "BH",
+            "flag": "🇧🇭",
+            "prefix": "^([A][9].*)"
+        },
+        {
+            "name": "People's Republic of China",
+            "code": "CN",
+            "flag": "🇨🇳",
+            "prefix": "^([B][0-9A-LR-TY-Z].*)"
+        },
+        {
+            "name": "Taiwan",
+            "code": "TW",
+            "flag": "🇹🇼",
+            "prefix": "^(([B][M-Q].*)|([B][U-X].*))"
+        },
+        {
+            "name": "Chile",
+            "code": "CL",
+            "flag": "🇨🇱",
+            "prefix": "^(([C][A–E].*)|([X][Q-R].*)|([3][G].*))"
+        },
+        {
+            "name": "Canada",
+            "code": "CA",
+            "flag": "🇨🇦",
+            "prefix": "^(([C][F-K].*)|([C][Y-Z].*)|([V][A-G].*)|([V][X-Y].*)|([X][J-O].*))"
+        },
+        {
+            "name": "Canada (formerly Dominion of Newfoundland)",
+            "code": "CA",
+            "flag": "🇨🇦",
+            "prefix": "^([V][O].*)"
+        },
+        {
+            "name": "Cuba",
+            "code": "CU",
+            "flag": "🇨🇺",
+            "prefix": "^(([C][L-M].*)|([C][O].*)|([T][4].*))"
+        },
+        {
+            "name": "Morocco",
+            "code": "MA",
+            "flag": "🇲🇦",
+            "prefix": "^(([C][N].*)|([5][C-G].*))"
+        },
+        {
+            "name": "Bolivia",
+            "code": "BO",
+            "flag": "🇧🇴",
+            "prefix": "CP"
+        },
+        {
+            "name": "Portugal",
+            "code": "",
+            "flag": "",
+            "prefix": "CQ–CU"
+        },
+        {
+            "name": "Uruguay",
+            "code": "",
+            "flag": "",
+            "prefix": "CV–CX"
+        },
+        {
+            "name": "Nauru",
+            "code": "",
+            "flag": "",
+            "prefix": "C2"
+        },
+        {
+            "name": "Andorra",
+            "code": "",
+            "flag": "",
+            "prefix": "C3"
+        },
+        {
+            "name": "Cyprus",
+            "code": "",
+            "flag": "",
+            "prefix": "C4"
+        },
+        {
+            "name": "The Gambia",
+            "code": "",
+            "flag": "",
+            "prefix": "C5"
+        },
+        {
+            "name": "Bahamas",
+            "code": "",
+            "flag": "",
+            "prefix": "C6"
+        },
+        {
+            "name": "World Meteorological Organization[Note 1]",
+            "code": "",
+            "flag": "",
+            "prefix": "C7"
+        },
+        {
+            "name": "Mozambique",
+            "code": "",
+            "flag": "",
+            "prefix": "C8–C9"
+        },
+        {
+            "name": "Germany",
+            "code": "",
+            "flag": "",
+            "prefix": "DA–DR"
+        },
+        {
+            "name": "South Korea",
+            "code": "",
+            "flag": "",
+            "prefix": "DS–DT"
+        },
+        {
+            "name": "Philippines",
+            "code": "",
+            "flag": "",
+            "prefix": "DU–DZ"
+        },
+        {
+            "name": "Angola",
+            "code": "",
+            "flag": "",
+            "prefix": "D2–D3"
+        },
+        {
+            "name": "Cape Verde",
+            "code": "",
+            "flag": "",
+            "prefix": "D4"
+        },
+        {
+            "name": "Comoros",
+            "code": "",
+            "flag": "",
+            "prefix": "D6"
+        },
+        {
+            "name": "South Korea",
+            "code": "",
+            "flag": "",
+            "prefix": "D7–D9"
+        },
+        {
+            "name": "Ireland",
+            "code": "",
+            "flag": "",
+            "prefix": "EI–EJ"
+        },
+        {
+            "name": "Armenia",
+            "code": "",
+            "flag": "",
+            "prefix": "EK"
+        },
+        {
+            "name": "Ukraine",
+            "code": "",
+            "flag": "",
+            "prefix": "EM–EO"
+        },
+        {
+            "name": "Iran",
+            "code": "",
+            "flag": "",
+            "prefix": "EP–EQ"
+        },
+        {
+            "name": "Moldova",
+            "code": "",
+            "flag": "",
+            "prefix": "ER"
+        },
+        {
+            "name": "Estonia",
+            "code": "",
+            "flag": "",
+            "prefix": "ES"
+        },
+        {
+            "name": "Ethiopia",
+            "code": "",
+            "flag": "",
+            "prefix": "ET"
+        },
+        {
+            "name": "Belarus",
+            "code": "",
+            "flag": "",
+            "prefix": "EU–EW"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "code": "",
+            "flag": "",
+            "prefix": "EX"
+        },
+        {
+            "name": "Tajikistan",
+            "code": "",
+            "flag": "",
+            "prefix": "EY"
+        },
+        {
+            "name": "Turkmenistan",
+            "code": "",
+            "flag": "",
+            "prefix": "EZ"
+        },
+        {
+            "name": "Thailand",
+            "code": "",
+            "flag": "",
+            "prefix": "E2"
+        },
+        {
+            "name": "Eritrea",
+            "code": "",
+            "flag": "",
+            "prefix": "E3"
+        },
+        {
+            "name": "Palestinian Authority",
+            "code": "",
+            "flag": "",
+            "prefix": "E4"
+        },
+        {
+            "name": "Cook Islands[Note 2]",
+            "code": "",
+            "flag": "",
+            "prefix": "E5"
+        },
+        {
+            "name": "Niue",
+            "code": "",
+            "flag": "",
+            "prefix": "E6"
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "code": "",
+            "flag": "",
+            "prefix": "E7"
+        },
+        {
+            "name": "France (and its Overseas departments/territories)",
+            "code": "",
+            "flag": "",
+            "prefix": "F"
+        },
+        {
+            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
+            "code": "",
+            "flag": "",
+            "prefix": "G"
+        },
+        {
+            "name": "Hungary",
+            "code": "",
+            "flag": "",
+            "prefix": "HA"
+        },
+        {
+            "name": "Switzerland",
+            "code": "",
+            "flag": "",
+            "prefix": "HB"
+        },
+        {
+            "name": "(HB0, HB3Y, HBL)    Liechtenstein (uses prefixes allocated to Switzerland)",
+            "code": "",
+            "flag": "",
+            "prefix": "HB"
+        },
+        {
+            "name": "Ecuador",
+            "code": "",
+            "flag": "",
+            "prefix": "HC–HD"
+        },
+        {
+            "name": "Switzerland",
+            "code": "",
+            "flag": "",
+            "prefix": "HE"
+        },
+        {
+            "name": "Poland",
+            "code": "",
+            "flag": "",
+            "prefix": "HF"
+        },
+        {
+            "name": "Hungary",
+            "code": "",
+            "flag": "",
+            "prefix": "HG"
+        },
+        {
+            "name": "Haiti",
+            "code": "",
+            "flag": "",
+            "prefix": "HH"
+        },
+        {
+            "name": "Dominican Republic",
+            "code": "",
+            "flag": "",
+            "prefix": "HI"
+        },
+        {
+            "name": "Colombia",
+            "code": "",
+            "flag": "",
+            "prefix": "HJ–HK"
+        },
+        {
+            "name": "South Korea",
+            "code": "",
+            "flag": "",
+            "prefix": "HL"
+        },
+        {
+            "name": "North Korea",
+            "code": "",
+            "flag": "",
+            "prefix": "HM"
+        },
+        {
+            "name": "Iraq",
+            "code": "",
+            "flag": "",
+            "prefix": "HN"
+        },
+        {
+            "name": "Panama",
+            "code": "",
+            "flag": "",
+            "prefix": "HO–HP"
+        },
+        {
+            "name": "Honduras",
+            "code": "",
+            "flag": "",
+            "prefix": "HQ–HR"
+        },
+        {
+            "name": "Thailand",
+            "code": "",
+            "flag": "",
+            "prefix": "HS"
+        },
+        {
+            "name": "Nicaragua",
+            "code": "",
+            "flag": "",
+            "prefix": "HT"
+        },
+        {
+            "name": "El Salvador",
+            "code": "",
+            "flag": "",
+            "prefix": "HU"
+        },
+        {
+            "name": "Vatican City",
+            "code": "",
+            "flag": "",
+            "prefix": "HV"
+        },
+        {
+            "name": "France (and its Overseas departments/territories)",
+            "code": "",
+            "flag": "",
+            "prefix": "HW–HY"
+        },
+        {
+            "name": "Saudi Arabia",
+            "code": "",
+            "flag": "",
+            "prefix": "HZ"
+        },
+        {
+            "name": "Cyprus",
+            "code": "",
+            "flag": "",
+            "prefix": "H2"
+        },
+        {
+            "name": "Panama",
+            "code": "",
+            "flag": "",
+            "prefix": "H3"
+        },
+        {
+            "name": "Solomon Islands",
+            "code": "",
+            "flag": "",
+            "prefix": "H4"
+        },
+        {
+            "name": "Nicaragua",
+            "code": "",
+            "flag": "",
+            "prefix": "H6–H7"
+        },
+        {
+            "name": "Panama",
+            "code": "",
+            "flag": "",
+            "prefix": "H8–H9"
+        },
+        {
+            "name": "Italy",
+            "code": "",
+            "flag": "",
+            "prefix": "I"
+        },
+        {
+            "name": "Japan",
+            "code": "",
+            "flag": "",
+            "prefix": "JA–JS"
+        },
+        {
+            "name": "Mongolia",
+            "code": "",
+            "flag": "",
+            "prefix": "JT–JV"
+        },
+        {
+            "name": "Norway",
+            "code": "",
+            "flag": "",
+            "prefix": "JW–JX"
+        },
+        {
+            "name": "Jordan",
+            "code": "",
+            "flag": "",
+            "prefix": "JY"
+        },
+        {
+            "name": "Indonesia",
+            "code": "",
+            "flag": "",
+            "prefix": "JZ"
+        },
+        {
+            "name": "Djibouti",
+            "code": "",
+            "flag": "",
+            "prefix": "J2"
+        },
+        {
+            "name": "Grenada",
+            "code": "",
+            "flag": "",
+            "prefix": "J3"
+        },
+        {
+            "name": "Greece",
+            "code": "",
+            "flag": "",
+            "prefix": "J4"
+        },
+        {
+            "name": "Guinea-Bissau",
+            "code": "",
+            "flag": "",
+            "prefix": "J5"
+        },
+        {
+            "name": "Saint Lucia",
+            "code": "",
+            "flag": "",
+            "prefix": "J6"
+        },
+        {
+            "name": "Dominica",
+            "code": "",
+            "flag": "",
+            "prefix": "J7"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "code": "",
+            "flag": "",
+            "prefix": "J8"
+        },
+        {
+            "name": "Norway",
+            "code": "",
+            "flag": "",
+            "prefix": "LA–LN"
+        },
+        {
+            "name": "Luxembourg",
+            "code": "",
+            "flag": "",
+            "prefix": "LX"
+        },
+        {
+            "name": "Lithuania",
+            "code": "",
+            "flag": "",
+            "prefix": "LY"
+        },
+        {
+            "name": "Bulgaria",
+            "code": "",
+            "flag": "",
+            "prefix": "LZ"
+        },
+        {
+            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
+            "code": "",
+            "flag": "",
+            "prefix": "M"
+        },
+        {
+            "name": "Peru",
+            "code": "",
+            "flag": "",
+            "prefix": "OA–OC"
+        },
+        {
+            "name": "Lebanon",
+            "code": "",
+            "flag": "",
+            "prefix": "OD"
+        },
+        {
+            "name": "Austria",
+            "code": "",
+            "flag": "",
+            "prefix": "OE"
+        },
+        {
+            "name": "Finland",
+            "code": "",
+            "flag": "",
+            "prefix": "OF–OJ"
+        },
+        {
+            "name": "Czech Republic",
+            "code": "",
+            "flag": "",
+            "prefix": "OK–OL"
+        },
+        {
+            "name": "Slovakia",
+            "code": "",
+            "flag": "",
+            "prefix": "OM"
+        },
+        {
+            "name": "Belgium",
+            "code": "",
+            "flag": "",
+            "prefix": "ON–OT"
+        },
+        {
+            "name": "Denmark",
+            "code": "",
+            "flag": "",
+            "prefix": "OU–OZ"
+        },
+        {
+            "name": "Netherlands",
+            "code": "",
+            "flag": "",
+            "prefix": "PA–PI"
+        },
+        {
+            "name": "Netherlands — Former Netherlands Antilles",
+            "code": "",
+            "flag": "",
+            "prefix": "PJ"
+        },
+        {
+            "name": "Indonesia",
+            "code": "",
+            "flag": "",
+            "prefix": "PK–PO"
+        },
+        {
+            "name": "Brazil",
+            "code": "",
+            "flag": "",
+            "prefix": "PP–PY"
+        },
+        {
+            "name": "Suriname",
+            "code": "",
+            "flag": "",
+            "prefix": "PZ"
+        },
+        {
+            "name": "Papua New Guinea",
+            "code": "",
+            "flag": "",
+            "prefix": "P2"
+        },
+        {
+            "name": "Cyprus",
+            "code": "",
+            "flag": "",
+            "prefix": "P3"
+        },
+        {
+            "name": "Aruba",
+            "code": "",
+            "flag": "",
+            "prefix": "P4"
+        },
+        {
+            "name": "North Korea",
+            "code": "",
+            "flag": "",
+            "prefix": "P5–P9"
+        },
+        {
+            "name": "are no prefixes beginning with Q[Note 3]",
+            "code": "",
+            "flag": "",
+            "prefix": "There"
+        },
+        {
+            "name": "Russia",
+            "code": "RU",
+            "flag": "🇷🇺",
+            "prefix": "^(([R].*)|([U][A-I].*))"
+        },
+        {
+            "name": "Sweden",
+            "code": "",
+            "flag": "",
+            "prefix": "SA–SM"
+        },
+        {
+            "name": "Poland",
+            "code": "",
+            "flag": "",
+            "prefix": "SN–SR"
+        },
+        {
+            "name": "Egypt[Note 4]",
+            "code": "",
+            "flag": "",
+            "prefix": "SSA–SSM"
+        },
+        {
+            "name": "Sudan[Note 4]",
+            "code": "",
+            "flag": "",
+            "prefix": "SSN–STZ"
+        },
+        {
+            "name": "Egypt",
+            "code": "",
+            "flag": "",
+            "prefix": "SU"
+        },
+        {
+            "name": "Greece",
+            "code": "",
+            "flag": "",
+            "prefix": "SV–SZ"
+        },
+        {
+            "name": "Bangladesh",
+            "code": "",
+            "flag": "",
+            "prefix": "S2–S3"
+        },
+        {
+            "name": "Slovenia",
+            "code": "",
+            "flag": "",
+            "prefix": "S5"
+        },
+        {
+            "name": "Singapore",
+            "code": "",
+            "flag": "",
+            "prefix": "S6"
+        },
+        {
+            "name": "Seychelles",
+            "code": "",
+            "flag": "",
+            "prefix": "S7"
+        },
+        {
+            "name": "South Africa",
+            "code": "",
+            "flag": "",
+            "prefix": "S8"
+        },
+        {
+            "name": "São Tomé and Príncipe",
+            "code": "",
+            "flag": "",
+            "prefix": "S9"
+        },
+        {
+            "name": "Turkey",
+            "code": "",
+            "flag": "",
+            "prefix": "TA–TC"
+        },
+        {
+            "name": "Guatemala",
+            "code": "",
+            "flag": "",
+            "prefix": "TD"
+        },
+        {
+            "name": "Costa Rica",
+            "code": "",
+            "flag": "",
+            "prefix": "TE"
+        },
+        {
+            "name": "Iceland",
+            "code": "",
+            "flag": "",
+            "prefix": "TF"
+        },
+        {
+            "name": "Guatemala",
+            "code": "",
+            "flag": "",
+            "prefix": "TG"
+        },
+        {
+            "name": "France (and its Overseas departments/territories)",
+            "code": "",
+            "flag": "",
+            "prefix": "TH"
+        },
+        {
+            "name": "Costa Rica",
+            "code": "",
+            "flag": "",
+            "prefix": "TI"
+        },
+        {
+            "name": "Cameroon",
+            "code": "",
+            "flag": "",
+            "prefix": "TJ"
+        },
+        {
+            "name": "France (and its Overseas departments/territories)",
+            "code": "",
+            "flag": "",
+            "prefix": "TK"
+        },
+        {
+            "name": "Central African Republic",
+            "code": "",
+            "flag": "",
+            "prefix": "TL"
+        },
+        {
+            "name": "France (and its Overseas departments/territories)",
+            "code": "",
+            "flag": "",
+            "prefix": "TM"
+        },
+        {
+            "name": "Congo",
+            "code": "",
+            "flag": "",
+            "prefix": "TN"
+        },
+        {
+            "name": "France (and its Overseas departments/territories)",
+            "code": "",
+            "flag": "",
+            "prefix": "TO–TQ"
+        },
+        {
+            "name": "Gabon",
+            "code": "",
+            "flag": "",
+            "prefix": "TR"
+        },
+        {
+            "name": "Tunisia",
+            "code": "",
+            "flag": "",
+            "prefix": "TS"
+        },
+        {
+            "name": "Chad",
+            "code": "",
+            "flag": "",
+            "prefix": "TT"
+        },
+        {
+            "name": "Ivory Coast",
+            "code": "",
+            "flag": "",
+            "prefix": "TU"
+        },
+        {
+            "name": "France (and its Overseas departments/territories)",
+            "code": "",
+            "flag": "",
+            "prefix": "TV–TX"
+        },
+        {
+            "name": "Benin",
+            "code": "",
+            "flag": "",
+            "prefix": "TY"
+        },
+        {
+            "name": "Mali",
+            "code": "",
+            "flag": "",
+            "prefix": "TZ"
+        },
+        {
+            "name": "Tuvalu",
+            "code": "",
+            "flag": "",
+            "prefix": "T2"
+        },
+        {
+            "name": "Kiribati",
+            "code": "",
+            "flag": "",
+            "prefix": "T3"
+        },
+        {
+            "name": "Somalia",
+            "code": "",
+            "flag": "",
+            "prefix": "T5"
+        },
+        {
+            "name": "Afghanistan",
+            "code": "",
+            "flag": "",
+            "prefix": "T6"
+        },
+        {
+            "name": "San Marino",
+            "code": "",
+            "flag": "",
+            "prefix": "T7"
+        },
+        {
+            "name": "Palau",
+            "code": "",
+            "flag": "",
+            "prefix": "T8"
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "code": "",
+            "flag": "",
+            "prefix": "T9"
+        },
+        {
+            "name": "Uzbekistan",
+            "code": "",
+            "flag": "",
+            "prefix": "UJ–UM"
+        },
+        {
+            "name": "Kazakhstan",
+            "code": "",
+            "flag": "",
+            "prefix": "UN–UQ"
+        },
+        {
+            "name": "Ukraine",
+            "code": "",
+            "flag": "",
+            "prefix": "UR–UZ"
+        },
+        {
+            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
+            "code": "",
+            "flag": "",
+            "prefix": "VP–VQ"
+        },
+        {
+            "name": "Hong Kong (Special Administrative Region of the People's Republic of China)",
+            "code": "",
+            "flag": "",
+            "prefix": "VR"
+        },
+        {
+            "name": "United Kingdom",
+            "code": "",
+            "flag": "",
+            "prefix": "VS"
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "code": "",
+            "flag": "",
+            "prefix": "V2"
+        },
+        {
+            "name": "Belize",
+            "code": "",
+            "flag": "",
+            "prefix": "V3"
+        },
+        {
+            "name": "Saint Kitts and Nevis",
+            "code": "",
+            "flag": "",
+            "prefix": "V4"
+        },
+        {
+            "name": "Namibia",
+            "code": "",
+            "flag": "",
+            "prefix": "V5"
+        },
+        {
+            "name": "Micronesia, Federated States of",
+            "code": "",
+            "flag": "",
+            "prefix": "V6"
+        },
+        {
+            "name": "Marshall Islands",
+            "code": "",
+            "flag": "",
+            "prefix": "V7"
+        },
+        {
+            "name": "Brunei",
+            "code": "",
+            "flag": "",
+            "prefix": "V8"
+        },
+        {
+            "name": "Mexico",
+            "code": "",
+            "flag": "",
+            "prefix": "XA–XI"
+        },
+        {
+            "name": "Denmark",
+            "code": "",
+            "flag": "",
+            "prefix": "XP"
+        },
+        {
+            "name": "People's Republic of China",
+            "code": "",
+            "flag": "",
+            "prefix": "XS"
+        },
+        {
+            "name": "Burkina Faso",
+            "code": "",
+            "flag": "",
+            "prefix": "XT"
+        },
+        {
+            "name": "Cambodia",
+            "code": "",
+            "flag": "",
+            "prefix": "XU"
+        },
+        {
+            "name": "Vietnam",
+            "code": "",
+            "flag": "",
+            "prefix": "XV"
+        },
+        {
+            "name": "Laos",
+            "code": "",
+            "flag": "",
+            "prefix": "XW"
+        },
+        {
+            "name": "Macao (Special Administrative Region of the People's Republic of China) [Note 2]",
+            "code": "",
+            "flag": "",
+            "prefix": "XX"
+        },
+        {
+            "name": "Burma",
+            "code": "",
+            "flag": "",
+            "prefix": "XY–XZ"
+        },
+        {
+            "name": "Afghanistan",
+            "code": "",
+            "flag": "",
+            "prefix": "YA"
+        },
+        {
+            "name": "Indonesia",
+            "code": "",
+            "flag": "",
+            "prefix": "YB–YH"
+        },
+        {
+            "name": "Iraq",
+            "code": "",
+            "flag": "",
+            "prefix": "YI"
+        },
+        {
+            "name": "Vanuatu",
+            "code": "",
+            "flag": "",
+            "prefix": "YJ"
+        },
+        {
+            "name": "Syria",
+            "code": "",
+            "flag": "",
+            "prefix": "YK"
+        },
+        {
+            "name": "Latvia",
+            "code": "",
+            "flag": "",
+            "prefix": "YL"
+        },
+        {
+            "name": "Turkey",
+            "code": "",
+            "flag": "",
+            "prefix": "YM"
+        },
+        {
+            "name": "Nicaragua",
+            "code": "",
+            "flag": "",
+            "prefix": "YN"
+        },
+        {
+            "name": "Romania",
+            "code": "",
+            "flag": "",
+            "prefix": "YO–YR"
+        },
+        {
+            "name": "El Salvador",
+            "code": "",
+            "flag": "",
+            "prefix": "YS"
+        },
+        {
+            "name": "Serbia[Note 2]",
+            "code": "",
+            "flag": "",
+            "prefix": "YT–YU"
+        },
+        {
+            "name": "Venezuela (Republic of)",
+            "code": "",
+            "flag": "",
+            "prefix": "YV–YY"
+        },
+        {
+            "name": "Germany",
+            "code": "",
+            "flag": "",
+            "prefix": "Y2–Y9"
+        },
+        {
+            "name": "Albania",
+            "code": "",
+            "flag": "",
+            "prefix": "ZA"
+        },
+        {
+            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
+            "code": "",
+            "flag": "",
+            "prefix": "ZB–ZJ"
+        },
+        {
+            "name": "New Zealand",
+            "code": "",
+            "flag": "",
+            "prefix": "ZK–ZM"
+        },
+        {
+            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
+            "code": "",
+            "flag": "",
+            "prefix": "ZN–ZO"
+        },
+        {
+            "name": "Paraguay",
+            "code": "",
+            "flag": "",
+            "prefix": "ZP"
+        },
+        {
+            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
+            "code": "",
+            "flag": "",
+            "prefix": "ZQ"
+        },
+        {
+            "name": "South Africa",
+            "code": "",
+            "flag": "",
+            "prefix": "ZR–ZU"
+        },
+        {
+            "name": "Brazil",
+            "code": "",
+            "flag": "",
+            "prefix": "ZV–ZZ"
+        },
+        {
+            "name": "Zimbabwe",
+            "code": "",
+            "flag": "",
+            "prefix": "Z2"
+        },
+        {
+            "name": "North Macedonia",
+            "code": "",
+            "flag": "",
+            "prefix": "Z3"
+        },
+        {
+            "name": "South Sudan",
+            "code": "",
+            "flag": "",
+            "prefix": "Z8"
+        },
+        {
+            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
+            "code": "",
+            "flag": "",
+            "prefix": "2"
+        },
+        {
+            "name": "Monaco",
+            "code": "",
+            "flag": "",
+            "prefix": "3A"
+        },
+        {
+            "name": "Mauritius",
+            "code": "",
+            "flag": "",
+            "prefix": "3B"
+        },
+        {
+            "name": "Equatorial Guinea",
+            "code": "",
+            "flag": "",
+            "prefix": "3C"
+        },
+        {
+            "name": "-A–3D-M    Swaziland[Note 4]",
+            "code": "",
+            "flag": "",
+            "prefix": "3D"
+        },
+        {
+            "name": "-N–3D-Z    Fiji[Note 4]",
+            "code": "",
+            "flag": "",
+            "prefix": "3D"
+        },
+        {
+            "name": "Panama",
+            "code": "",
+            "flag": "",
+            "prefix": "3E–3F"
+        },
+        {
+            "name": "People's Republic of China",
+            "code": "",
+            "flag": "",
+            "prefix": "3H–3U"
+        },
+        {
+            "name": "Tunisia",
+            "code": "",
+            "flag": "",
+            "prefix": "3V"
+        },
+        {
+            "name": "Vietnam",
+            "code": "",
+            "flag": "",
+            "prefix": "3W"
+        },
+        {
+            "name": "Guinea",
+            "code": "",
+            "flag": "",
+            "prefix": "3X"
+        },
+        {
+            "name": "Norway",
+            "code": "",
+            "flag": "",
+            "prefix": "3Y"
+        },
+        {
+            "name": "Poland",
+            "code": "",
+            "flag": "",
+            "prefix": "3Z"
+        },
+        {
+            "name": "Mexico",
+            "code": "",
+            "flag": "",
+            "prefix": "4A–4C"
+        },
+        {
+            "name": "Philippines",
+            "code": "",
+            "flag": "",
+            "prefix": "4D–4I"
+        },
+        {
+            "name": "Azerbaijan",
+            "code": "",
+            "flag": "",
+            "prefix": "4J–4K"
+        },
+        {
+            "name": "Georgia",
+            "code": "",
+            "flag": "",
+            "prefix": "4L"
+        },
+        {
+            "name": "Venezuela",
+            "code": "",
+            "flag": "",
+            "prefix": "4M"
+        },
+        {
+            "name": "Montenegro[Note 2]",
+            "code": "",
+            "flag": "",
+            "prefix": "4O"
+        },
+        {
+            "name": "Sri Lanka",
+            "code": "",
+            "flag": "",
+            "prefix": "4P–4S"
+        },
+        {
+            "name": "Peru",
+            "code": "",
+            "flag": "",
+            "prefix": "4T"
+        },
+        {
+            "name": "United Nations[Note 1]",
+            "code": "",
+            "flag": "",
+            "prefix": "4U"
+        },
+        {
+            "name": "Haiti",
+            "code": "",
+            "flag": "",
+            "prefix": "4V"
+        },
+        {
+            "name": "East Timor",
+            "code": "",
+            "flag": "",
+            "prefix": "4W"
+        },
+        {
+            "name": "Israel",
+            "code": "",
+            "flag": "",
+            "prefix": "4X"
+        },
+        {
+            "name": "International Civil Aviation Organization[Note 1]",
+            "code": "",
+            "flag": "",
+            "prefix": "4Y"
+        },
+        {
+            "name": "Israel",
+            "code": "",
+            "flag": "",
+            "prefix": "4Z"
+        },
+        {
+            "name": "Libya",
+            "code": "",
+            "flag": "",
+            "prefix": "5A"
+        },
+        {
+            "name": "Cyprus",
+            "code": "",
+            "flag": "",
+            "prefix": "5B"
+        },
+        {
+            "name": "Tanzania",
+            "code": "",
+            "flag": "",
+            "prefix": "5H–5I"
+        },
+        {
+            "name": "Colombia",
+            "code": "",
+            "flag": "",
+            "prefix": "5J–5K"
+        },
+        {
+            "name": "Nigeria",
+            "code": "",
+            "flag": "",
+            "prefix": "5N–5O"
+        },
+        {
+            "name": "Denmark",
+            "code": "",
+            "flag": "",
+            "prefix": "5P–5Q"
+        },
+        {
+            "name": "Madagascar",
+            "code": "",
+            "flag": "",
+            "prefix": "5R–5S"
+        },
+        {
+            "name": "Mauritania",
+            "code": "",
+            "flag": "",
+            "prefix": "5T"
+        },
+        {
+            "name": "Niger",
+            "code": "",
+            "flag": "",
+            "prefix": "5U"
+        },
+        {
+            "name": "Togo",
+            "code": "",
+            "flag": "",
+            "prefix": "5V"
+        },
+        {
+            "name": "Western Samoa",
+            "code": "",
+            "flag": "",
+            "prefix": "5W"
+        },
+        {
+            "name": "Uganda",
+            "code": "",
+            "flag": "",
+            "prefix": "5X"
+        },
+        {
+            "name": "Kenya",
+            "code": "",
+            "flag": "",
+            "prefix": "5Y–5Z"
+        },
+        {
+            "name": "Egypt",
+            "code": "",
+            "flag": "",
+            "prefix": "6A–6B"
+        },
+        {
+            "name": "Syria",
+            "code": "",
+            "flag": "",
+            "prefix": "6C"
+        },
+        {
+            "name": "Mexico",
+            "code": "",
+            "flag": "",
+            "prefix": "6D–6J"
+        },
+        {
+            "name": "South Korea",
+            "code": "",
+            "flag": "",
+            "prefix": "6K–6N"
+        },
+        {
+            "name": "Somalia",
+            "code": "",
+            "flag": "",
+            "prefix": "6O"
+        },
+        {
+            "name": "Sudan",
+            "code": "",
+            "flag": "",
+            "prefix": "6T–6U"
+        },
+        {
+            "name": "Senegal",
+            "code": "",
+            "flag": "",
+            "prefix": "6V–6W"
+        },
+        {
+            "name": "Madagascar",
+            "code": "",
+            "flag": "",
+            "prefix": "6X"
+        },
+        {
+            "name": "Jamaica",
+            "code": "",
+            "flag": "",
+            "prefix": "6Y"
+        },
+        {
+            "name": "Indonesia",
+            "code": "",
+            "flag": "",
+            "prefix": "7A–7I"
+        },
+        {
+            "name": "Japan",
+            "code": "",
+            "flag": "",
+            "prefix": "7J–7N"
+        },
+        {
+            "name": "Yemen",
+            "code": "",
+            "flag": "",
+            "prefix": "7O"
+        },
+        {
+            "name": "Lesotho",
+            "code": "",
+            "flag": "",
+            "prefix": "7P"
+        },
+        {
+            "name": "Malawi",
+            "code": "",
+            "flag": "",
+            "prefix": "7Q"
+        },
+        {
+            "name": "Algeria",
+            "code": "",
+            "flag": "",
+            "prefix": "7R"
+        },
+        {
+            "name": "Sweden",
+            "code": "",
+            "flag": "",
+            "prefix": "7S"
+        },
+        {
+            "name": "Algeria",
+            "code": "",
+            "flag": "",
+            "prefix": "7T–7Y"
+        },
+        {
+            "name": "Saudi Arabia",
+            "code": "",
+            "flag": "",
+            "prefix": "7Z"
+        },
+        {
+            "name": "Indonesia",
+            "code": "",
+            "flag": "",
+            "prefix": "8A–8I"
+        },
+        {
+            "name": "Japan",
+            "code": "",
+            "flag": "",
+            "prefix": "8J–8N"
+        },
+        {
+            "name": "Barbados",
+            "code": "",
+            "flag": "",
+            "prefix": "8P"
+        },
+        {
+            "name": "Maldives",
+            "code": "",
+            "flag": "",
+            "prefix": "8Q"
+        },
+        {
+            "name": "Guyana",
+            "code": "",
+            "flag": "",
+            "prefix": "8R"
+        },
+        {
+            "name": "Sweden",
+            "code": "",
+            "flag": "",
+            "prefix": "8S"
+        },
+        {
+            "name": "Saudi Arabia",
+            "code": "",
+            "flag": "",
+            "prefix": "8Z"
+        },
+        {
+            "name": "Croatia",
+            "code": "",
+            "flag": "",
+            "prefix": "9A"
+        },
+        {
+            "name": "Iran",
+            "code": "",
+            "flag": "",
+            "prefix": "9B–9D"
+        },
+        {
+            "name": "Ethiopia",
+            "code": "",
+            "flag": "",
+            "prefix": "9E–9F"
+        },
+        {
+            "name": "Ghana",
+            "code": "",
+            "flag": "",
+            "prefix": "9G"
+        },
+        {
+            "name": "Malta",
+            "code": "",
+            "flag": "",
+            "prefix": "9H"
+        },
+        {
+            "name": "Zambia",
+            "code": "",
+            "flag": "",
+            "prefix": "9I–9J"
+        },
+        {
+            "name": "Kuwait",
+            "code": "",
+            "flag": "",
+            "prefix": "9K"
+        },
+        {
+            "name": "Sierra Leone",
+            "code": "",
+            "flag": "",
+            "prefix": "9L"
+        },
+        {
+            "name": "Malaysia",
+            "code": "",
+            "flag": "",
+            "prefix": "9M"
+        },
+        {
+            "name": "Nepal",
+            "code": "",
+            "flag": "",
+            "prefix": "9N"
+        },
+        {
+            "name": "Democratic Republic of the Congo",
+            "code": "",
+            "flag": "",
+            "prefix": "9O–9T"
+        },
+        {
+            "name": "Burundi",
+            "code": "",
+            "flag": "",
+            "prefix": "9U"
+        },
+        {
+            "name": "Singapore",
+            "code": "",
+            "flag": "",
+            "prefix": "9V"
+        },
+        {
+            "name": "Malaysia",
+            "code": "",
+            "flag": "",
+            "prefix": "9W"
+        },
+        {
+            "name": "Rwanda",
+            "code": "",
+            "flag": "",
+            "prefix": "9X"
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "code": "",
+            "flag": "",
+            "prefix": "9Y–9Z"
+        }
+    ]
+}
