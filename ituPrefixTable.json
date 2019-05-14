@@ -1,4 +1,6 @@
 {
+    "version": "0.1.1",
+    "date": "2019.05",
     "countries": [
         {
             "name": "United States",
@@ -1234,7 +1236,7 @@
             "name": "United Kingdom (and its overseas territories/Crown dependencies)",
             "code": "",
             "flag": "",
-            "prefix": "2"
+            "prefix": "^([2].*)"
         },
         {
             "name": "Monaco",
