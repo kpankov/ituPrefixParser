@@ -1,0 +1,22 @@
+{
+  "name": "ituprefixparser",
+  "version": "1.0.0",
+  "description": "ITU prefix parser for HAM callsign",
+  "main": "ituPrefixParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpankov/ituPrefixParser.git"
+  },
+  "keywords": [
+    "itu"
+  ],
+  "author": "kpankov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpankov/ituPrefixParser/issues"
+  },
+  "homepage": "https://github.com/kpankov/ituPrefixParser#readme"
+}
