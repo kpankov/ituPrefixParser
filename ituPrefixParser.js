@@ -1,5 +1,6 @@
 var fs = require('fs');
-var data = fs.readFileSync('ituPrefixTable.json', 'utf8');
+var path = require('path');
+var data = fs.readFileSync(path.resolve(__dirname) + '/ituPrefixTable.json', 'utf8');
 var words = JSON.parse(data);
 
 var countries = words["countries"];
