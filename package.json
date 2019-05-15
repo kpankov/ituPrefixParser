@@ -1,6 +1,6 @@
 {
   "name": "ituprefixparser",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "ITU prefix parser for HAM callsign",
   "main": "ituPrefixParser.js",
   "scripts": {
