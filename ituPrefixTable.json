@@ -132,55 +132,55 @@
             "name": "Bolivia",
             "code": "BO",
             "flag": "🇧🇴",
-            "prefix": "CP"
+            "prefix": "^([C][P].*)"
         },
         {
             "name": "Portugal",
-            "code": "",
-            "flag": "",
-            "prefix": "CQ–CU"
+            "code": "PT",
+            "flag": "🇵🇹",
+            "prefix": "^([C][Q–U].*)"
         },
         {
             "name": "Uruguay",
-            "code": "",
-            "flag": "",
-            "prefix": "CV–CX"
+            "code": "UY",
+            "flag": "🇺🇾",
+            "prefix": "^([C][V–X].*)"
         },
         {
             "name": "Nauru",
-            "code": "",
-            "flag": "",
-            "prefix": "C2"
+            "code": "NR",
+            "flag": "🇳🇷",
+            "prefix": "^([C][2].*)"
         },
         {
             "name": "Andorra",
-            "code": "",
-            "flag": "",
-            "prefix": "C3"
+            "code": "AD",
+            "flag": "🇦🇩",
+            "prefix": "^([C][3].*)"
         },
         {
             "name": "Cyprus",
-            "code": "",
-            "flag": "",
-            "prefix": "C4"
+            "code": "CY",
+            "flag": "🇨🇾",
+            "prefix": "^(([C][4].*)|([H][2].*)|([P][3].*)|([5][B].*))"
         },
         {
             "name": "The Gambia",
             "code": "",
             "flag": "",
-            "prefix": "C5"
+            "prefix": "^([C][5].*)"
         },
         {
             "name": "Bahamas",
             "code": "",
             "flag": "",
-            "prefix": "C6"
+            "prefix": "^([C][6].*)"
         },
         {
             "name": "World Meteorological Organization[Note 1]",
             "code": "",
             "flag": "",
-            "prefix": "C7"
+            "prefix": "^([C][7].*)"
         },
         {
             "name": "Mozambique",
@@ -216,13 +216,13 @@
             "name": "Cape Verde",
             "code": "",
             "flag": "",
-            "prefix": "D4"
+            "prefix": "^([D][4].*)"
         },
         {
             "name": "Comoros",
             "code": "",
             "flag": "",
-            "prefix": "D6"
+            "prefix": "^([D][6].*)"
         },
         {
             "name": "South Korea",
@@ -240,7 +240,7 @@
             "name": "Armenia",
             "code": "",
             "flag": "",
-            "prefix": "EK"
+            "prefix": "^([E][K].*)"
         },
         {
             "name": "Ukraine",
@@ -258,19 +258,19 @@
             "name": "Moldova",
             "code": "",
             "flag": "",
-            "prefix": "ER"
+            "prefix": "^([E][R].*)"
         },
         {
             "name": "Estonia",
             "code": "",
             "flag": "",
-            "prefix": "ES"
+            "prefix": "^([E][S].*)"
         },
         {
             "name": "Ethiopia",
             "code": "",
             "flag": "",
-            "prefix": "ET"
+            "prefix": "^([E][T].*)"
         },
         {
             "name": "Belarus",
@@ -282,85 +282,85 @@
             "name": "Kyrgyzstan",
             "code": "",
             "flag": "",
-            "prefix": "EX"
+            "prefix": "^([E][X].*)"
         },
         {
             "name": "Tajikistan",
             "code": "",
             "flag": "",
-            "prefix": "EY"
+            "prefix": "^([E][Y].*)"
         },
         {
             "name": "Turkmenistan",
             "code": "",
             "flag": "",
-            "prefix": "EZ"
+            "prefix": "^([E][Z].*)"
         },
         {
             "name": "Thailand",
             "code": "",
             "flag": "",
-            "prefix": "E2"
+            "prefix": "^([E][2].*)"
         },
         {
             "name": "Eritrea",
             "code": "",
             "flag": "",
-            "prefix": "E3"
+            "prefix": "^([E][3].*)"
         },
         {
             "name": "Palestinian Authority",
             "code": "",
             "flag": "",
-            "prefix": "E4"
+            "prefix": "^([E][4].*)"
         },
         {
             "name": "Cook Islands[Note 2]",
             "code": "",
             "flag": "",
-            "prefix": "E5"
+            "prefix": "^([E][5].*)"
         },
         {
             "name": "Niue",
             "code": "",
             "flag": "",
-            "prefix": "E6"
+            "prefix": "^([E][6].*)"
         },
         {
             "name": "Bosnia and Herzegovina",
             "code": "",
             "flag": "",
-            "prefix": "E7"
+            "prefix": "^([E][7].*)"
         },
         {
             "name": "France (and its Overseas departments/territories)",
             "code": "",
             "flag": "",
-            "prefix": "F"
+            "prefix": "^([F].*)"
         },
         {
             "name": "United Kingdom (and its overseas territories/Crown dependencies)",
-            "code": "",
-            "flag": "",
-            "prefix": "G"
+            "code": "UK",
+            "flag": "🇬🇧",
+            "prefix": "^(([G].*)|([M].*)|([V][P-Q].*)|([V][S].*)|([Z][B-J].*)|([Z][N-O].*)|([Z][Q].*)|([2].*))"
         },
         {
             "name": "Hungary",
             "code": "",
             "flag": "",
-            "prefix": "HA"
+            "prefix": "^([H][A].*)"
         },
         {
             "name": "Switzerland",
             "code": "",
             "flag": "",
-            "prefix": "HB"
+            "prefix": "^([H][B].*)"
         },
         {
             "name": "(HB0, HB3Y, HBL)    Liechtenstein (uses prefixes allocated to Switzerland)",
             "code": "",
             "flag": "",
-            "prefix": "HB"
+            "prefix": "^([H][B].*)"
         },
         {
             "name": "Ecuador",
@@ -372,31 +372,31 @@
             "name": "Switzerland",
             "code": "",
             "flag": "",
-            "prefix": "HE"
+            "prefix": "^([H][E].*)"
         },
         {
             "name": "Poland",
             "code": "",
             "flag": "",
-            "prefix": "HF"
+            "prefix": "^([H][F].*)"
         },
         {
             "name": "Hungary",
             "code": "",
             "flag": "",
-            "prefix": "HG"
+            "prefix": "^([H][G].*)"
         },
         {
             "name": "Haiti",
             "code": "",
             "flag": "",
-            "prefix": "HH"
+            "prefix": "^([H][H].*)"
         },
         {
             "name": "Dominican Republic",
             "code": "",
             "flag": "",
-            "prefix": "HI"
+            "prefix": "^([H][I].*)"
         },
         {
             "name": "Colombia",
@@ -408,19 +408,19 @@
             "name": "South Korea",
             "code": "",
             "flag": "",
-            "prefix": "HL"
+            "prefix": "^([H][L].*)"
         },
         {
             "name": "North Korea",
             "code": "",
             "flag": "",
-            "prefix": "HM"
+            "prefix": "^([H][M].*)"
         },
         {
             "name": "Iraq",
             "code": "",
             "flag": "",
-            "prefix": "HN"
+            "prefix": "^([H][N].*)"
         },
         {
             "name": "Panama",
@@ -438,25 +438,25 @@
             "name": "Thailand",
             "code": "",
             "flag": "",
-            "prefix": "HS"
+            "prefix": "^([H][S].*)"
         },
         {
             "name": "Nicaragua",
             "code": "",
             "flag": "",
-            "prefix": "HT"
+            "prefix": "^([H][T].*)"
         },
         {
             "name": "El Salvador",
             "code": "",
             "flag": "",
-            "prefix": "HU"
+            "prefix": "^([H][U].*)"
         },
         {
             "name": "Vatican City",
             "code": "",
             "flag": "",
-            "prefix": "HV"
+            "prefix": "^([H][V].*)"
         },
         {
             "name": "France (and its Overseas departments/territories)",
@@ -468,25 +468,19 @@
             "name": "Saudi Arabia",
             "code": "",
             "flag": "",
-            "prefix": "HZ"
-        },
-        {
-            "name": "Cyprus",
-            "code": "",
-            "flag": "",
-            "prefix": "H2"
+            "prefix": "^([H][Z].*)"
         },
         {
             "name": "Panama",
             "code": "",
             "flag": "",
-            "prefix": "H3"
+            "prefix": "^([H][3].*)"
         },
         {
             "name": "Solomon Islands",
             "code": "",
             "flag": "",
-            "prefix": "H4"
+            "prefix": "^([H][4].*)"
         },
         {
             "name": "Nicaragua",
@@ -504,7 +498,7 @@
             "name": "Italy",
             "code": "",
             "flag": "",
-            "prefix": "I"
+            "prefix": "^([I].*)"
         },
         {
             "name": "Japan",
@@ -528,55 +522,55 @@
             "name": "Jordan",
             "code": "",
             "flag": "",
-            "prefix": "JY"
+            "prefix": "^([J][Y].*)"
         },
         {
             "name": "Indonesia",
             "code": "",
             "flag": "",
-            "prefix": "JZ"
+            "prefix": "^([J][Z].*)"
         },
         {
             "name": "Djibouti",
             "code": "",
             "flag": "",
-            "prefix": "J2"
+            "prefix": "^([J][2].*)"
         },
         {
             "name": "Grenada",
             "code": "",
             "flag": "",
-            "prefix": "J3"
+            "prefix": "^([J][3].*)"
         },
         {
             "name": "Greece",
             "code": "",
             "flag": "",
-            "prefix": "J4"
+            "prefix": "^([J][4].*)"
         },
         {
             "name": "Guinea-Bissau",
             "code": "",
             "flag": "",
-            "prefix": "J5"
+            "prefix": "^([J][5].*)"
         },
         {
             "name": "Saint Lucia",
             "code": "",
             "flag": "",
-            "prefix": "J6"
+            "prefix": "^([J][6].*)"
         },
         {
             "name": "Dominica",
             "code": "",
             "flag": "",
-            "prefix": "J7"
+            "prefix": "^([J][7].*)"
         },
         {
             "name": "Saint Vincent and the Grenadines",
             "code": "",
             "flag": "",
-            "prefix": "J8"
+            "prefix": "^([J][8].*)"
         },
         {
             "name": "Norway",
@@ -588,25 +582,19 @@
             "name": "Luxembourg",
             "code": "",
             "flag": "",
-            "prefix": "LX"
+            "prefix": "^([L][X].*)"
         },
         {
             "name": "Lithuania",
             "code": "",
             "flag": "",
-            "prefix": "LY"
+            "prefix": "^([L][Y].*)"
         },
         {
             "name": "Bulgaria",
             "code": "",
             "flag": "",
-            "prefix": "LZ"
-        },
-        {
-            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
-            "code": "",
-            "flag": "",
-            "prefix": "M"
+            "prefix": "^([L][Z].*)"
         },
         {
             "name": "Peru",
@@ -618,13 +606,13 @@
             "name": "Lebanon",
             "code": "",
             "flag": "",
-            "prefix": "OD"
+            "prefix": "^([O][D].*)"
         },
         {
             "name": "Austria",
             "code": "",
             "flag": "",
-            "prefix": "OE"
+            "prefix": "^([O][E].*)"
         },
         {
             "name": "Finland",
@@ -642,7 +630,7 @@
             "name": "Slovakia",
             "code": "",
             "flag": "",
-            "prefix": "OM"
+            "prefix": "^([O][M].*)"
         },
         {
             "name": "Belgium",
@@ -666,7 +654,7 @@
             "name": "Netherlands — Former Netherlands Antilles",
             "code": "",
             "flag": "",
-            "prefix": "PJ"
+            "prefix": "^([P][J].*)"
         },
         {
             "name": "Indonesia",
@@ -684,25 +672,19 @@
             "name": "Suriname",
             "code": "",
             "flag": "",
-            "prefix": "PZ"
+            "prefix": "^([P][Z].*)"
         },
         {
             "name": "Papua New Guinea",
             "code": "",
             "flag": "",
-            "prefix": "P2"
-        },
-        {
-            "name": "Cyprus",
-            "code": "",
-            "flag": "",
-            "prefix": "P3"
+            "prefix": "^([P][2].*)"
         },
         {
             "name": "Aruba",
             "code": "",
             "flag": "",
-            "prefix": "P4"
+            "prefix": "^([P][4].*)"
         },
         {
             "name": "North Korea",
@@ -750,7 +732,7 @@
             "name": "Egypt",
             "code": "",
             "flag": "",
-            "prefix": "SU"
+            "prefix": "^([S][U].*)"
         },
         {
             "name": "Greece",
@@ -768,31 +750,31 @@
             "name": "Slovenia",
             "code": "",
             "flag": "",
-            "prefix": "S5"
+            "prefix": "^([S][5].*)"
         },
         {
             "name": "Singapore",
             "code": "",
             "flag": "",
-            "prefix": "S6"
+            "prefix": "^([S][6].*)"
         },
         {
             "name": "Seychelles",
             "code": "",
             "flag": "",
-            "prefix": "S7"
+            "prefix": "^([S][7].*)"
         },
         {
             "name": "South Africa",
             "code": "",
             "flag": "",
-            "prefix": "S8"
+            "prefix": "^([S][8].*)"
         },
         {
             "name": "São Tomé and Príncipe",
             "code": "",
             "flag": "",
-            "prefix": "S9"
+            "prefix": "^([S][9].*)"
         },
         {
             "name": "Turkey",
@@ -804,67 +786,67 @@
             "name": "Guatemala",
             "code": "",
             "flag": "",
-            "prefix": "TD"
+            "prefix": "^([T][D].*)"
         },
         {
             "name": "Costa Rica",
             "code": "",
             "flag": "",
-            "prefix": "TE"
+            "prefix": "^([T][E].*)"
         },
         {
             "name": "Iceland",
             "code": "",
             "flag": "",
-            "prefix": "TF"
+            "prefix": "^([T][F].*)"
         },
         {
             "name": "Guatemala",
             "code": "",
             "flag": "",
-            "prefix": "TG"
+            "prefix": "^([T][G].*)"
         },
         {
             "name": "France (and its Overseas departments/territories)",
             "code": "",
             "flag": "",
-            "prefix": "TH"
+            "prefix": "^([T][H].*)"
         },
         {
             "name": "Costa Rica",
             "code": "",
             "flag": "",
-            "prefix": "TI"
+            "prefix": "^([T][I].*)"
         },
         {
             "name": "Cameroon",
             "code": "",
             "flag": "",
-            "prefix": "TJ"
+            "prefix": "^([T][J].*)"
         },
         {
             "name": "France (and its Overseas departments/territories)",
             "code": "",
             "flag": "",
-            "prefix": "TK"
+            "prefix": "^([T][K].*)"
         },
         {
             "name": "Central African Republic",
             "code": "",
             "flag": "",
-            "prefix": "TL"
+            "prefix": "^([T][L].*)"
         },
         {
             "name": "France (and its Overseas departments/territories)",
             "code": "",
             "flag": "",
-            "prefix": "TM"
+            "prefix": "^([T][M].*)"
         },
         {
             "name": "Congo",
             "code": "",
             "flag": "",
-            "prefix": "TN"
+            "prefix": "^([T][N].*)"
         },
         {
             "name": "France (and its Overseas departments/territories)",
@@ -876,25 +858,25 @@
             "name": "Gabon",
             "code": "",
             "flag": "",
-            "prefix": "TR"
+            "prefix": "^([T][R].*)"
         },
         {
             "name": "Tunisia",
-            "code": "",
-            "flag": "",
-            "prefix": "TS"
+            "code": "TN",
+            "flag": "🇹🇳",
+            "prefix": "^(([T][S].*)|([3][V].*))"
         },
         {
             "name": "Chad",
             "code": "",
             "flag": "",
-            "prefix": "TT"
+            "prefix": "^([T][T].*)"
         },
         {
             "name": "Ivory Coast",
             "code": "",
             "flag": "",
-            "prefix": "TU"
+            "prefix": "^([T][U].*)"
         },
         {
             "name": "France (and its Overseas departments/territories)",
@@ -906,55 +888,55 @@
             "name": "Benin",
             "code": "",
             "flag": "",
-            "prefix": "TY"
+            "prefix": "^([T][Y].*)"
         },
         {
             "name": "Mali",
             "code": "",
             "flag": "",
-            "prefix": "TZ"
+            "prefix": "^([T][Z].*)"
         },
         {
             "name": "Tuvalu",
             "code": "",
             "flag": "",
-            "prefix": "T2"
+            "prefix": "^([T][2].*)"
         },
         {
             "name": "Kiribati",
             "code": "",
             "flag": "",
-            "prefix": "T3"
+            "prefix": "^([T][3].*)"
         },
         {
             "name": "Somalia",
             "code": "",
             "flag": "",
-            "prefix": "T5"
+            "prefix": "^([T][5].*)"
         },
         {
             "name": "Afghanistan",
             "code": "",
             "flag": "",
-            "prefix": "T6"
+            "prefix": "^([T][6].*)"
         },
         {
             "name": "San Marino",
             "code": "",
             "flag": "",
-            "prefix": "T7"
+            "prefix": "^([T][7].*)"
         },
         {
             "name": "Palau",
             "code": "",
             "flag": "",
-            "prefix": "T8"
+            "prefix": "^([T][8].*)"
         },
         {
             "name": "Bosnia and Herzegovina",
             "code": "",
             "flag": "",
-            "prefix": "T9"
+            "prefix": "^([T][9].*)"
         },
         {
             "name": "Uzbekistan",
@@ -975,64 +957,52 @@
             "prefix": "UR–UZ"
         },
         {
-            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
-            "code": "",
-            "flag": "",
-            "prefix": "VP–VQ"
-        },
-        {
             "name": "Hong Kong (Special Administrative Region of the People's Republic of China)",
             "code": "",
             "flag": "",
-            "prefix": "VR"
-        },
-        {
-            "name": "United Kingdom",
-            "code": "",
-            "flag": "",
-            "prefix": "VS"
+            "prefix": "^([V][R].*)"
         },
         {
             "name": "Antigua and Barbuda",
             "code": "",
             "flag": "",
-            "prefix": "V2"
+            "prefix": "^([V][2].*)"
         },
         {
             "name": "Belize",
             "code": "",
             "flag": "",
-            "prefix": "V3"
+            "prefix": "^([V][3].*)"
         },
         {
             "name": "Saint Kitts and Nevis",
             "code": "",
             "flag": "",
-            "prefix": "V4"
+            "prefix": "^([V][4].*)"
         },
         {
             "name": "Namibia",
             "code": "",
             "flag": "",
-            "prefix": "V5"
+            "prefix": "^([V][5].*)"
         },
         {
             "name": "Micronesia, Federated States of",
             "code": "",
             "flag": "",
-            "prefix": "V6"
+            "prefix": "^([V][6].*)"
         },
         {
             "name": "Marshall Islands",
             "code": "",
             "flag": "",
-            "prefix": "V7"
+            "prefix": "^([V][7].*)"
         },
         {
             "name": "Brunei",
             "code": "",
             "flag": "",
-            "prefix": "V8"
+            "prefix": "^([V][8].*)"
         },
         {
             "name": "Mexico",
@@ -1044,43 +1014,43 @@
             "name": "Denmark",
             "code": "",
             "flag": "",
-            "prefix": "XP"
+            "prefix": "^([X][P].*)"
         },
         {
             "name": "People's Republic of China",
             "code": "",
             "flag": "",
-            "prefix": "XS"
+            "prefix": "^([X][S].*)"
         },
         {
             "name": "Burkina Faso",
             "code": "",
             "flag": "",
-            "prefix": "XT"
+            "prefix": "^([X][T].*)"
         },
         {
             "name": "Cambodia",
             "code": "",
             "flag": "",
-            "prefix": "XU"
+            "prefix": "^([X][U].*)"
         },
         {
             "name": "Vietnam",
             "code": "",
             "flag": "",
-            "prefix": "XV"
+            "prefix": "^([X][V].*)"
         },
         {
             "name": "Laos",
             "code": "",
             "flag": "",
-            "prefix": "XW"
+            "prefix": "^([X][W].*)"
         },
         {
             "name": "Macao (Special Administrative Region of the People's Republic of China) [Note 2]",
             "code": "",
             "flag": "",
-            "prefix": "XX"
+            "prefix": "^([X][X].*)"
         },
         {
             "name": "Burma",
@@ -1092,7 +1062,7 @@
             "name": "Afghanistan",
             "code": "",
             "flag": "",
-            "prefix": "YA"
+            "prefix": "^([Y][A].*)"
         },
         {
             "name": "Indonesia",
@@ -1104,37 +1074,37 @@
             "name": "Iraq",
             "code": "",
             "flag": "",
-            "prefix": "YI"
+            "prefix": "^([Y][I].*)"
         },
         {
             "name": "Vanuatu",
             "code": "",
             "flag": "",
-            "prefix": "YJ"
+            "prefix": "^([Y][J].*)"
         },
         {
             "name": "Syria",
             "code": "",
             "flag": "",
-            "prefix": "YK"
+            "prefix": "^([Y][K].*)"
         },
         {
             "name": "Latvia",
             "code": "",
             "flag": "",
-            "prefix": "YL"
+            "prefix": "^([Y][L].*)"
         },
         {
             "name": "Turkey",
             "code": "",
             "flag": "",
-            "prefix": "YM"
+            "prefix": "^([Y][M].*)"
         },
         {
             "name": "Nicaragua",
             "code": "",
             "flag": "",
-            "prefix": "YN"
+            "prefix": "^([Y][N].*)"
         },
         {
             "name": "Romania",
@@ -1146,7 +1116,7 @@
             "name": "El Salvador",
             "code": "",
             "flag": "",
-            "prefix": "YS"
+            "prefix": "^([Y][S].*)"
         },
         {
             "name": "Serbia[Note 2]",
@@ -1170,13 +1140,7 @@
             "name": "Albania",
             "code": "",
             "flag": "",
-            "prefix": "ZA"
-        },
-        {
-            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
-            "code": "",
-            "flag": "",
-            "prefix": "ZB–ZJ"
+            "prefix": "^([Z][A].*)"
         },
         {
             "name": "New Zealand",
@@ -1185,22 +1149,10 @@
             "prefix": "ZK–ZM"
         },
         {
-            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
-            "code": "",
-            "flag": "",
-            "prefix": "ZN–ZO"
-        },
-        {
             "name": "Paraguay",
             "code": "",
             "flag": "",
-            "prefix": "ZP"
-        },
-        {
-            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
-            "code": "",
-            "flag": "",
-            "prefix": "ZQ"
+            "prefix": "^([Z][P].*)"
         },
         {
             "name": "South Africa",
@@ -1218,55 +1170,49 @@
             "name": "Zimbabwe",
             "code": "",
             "flag": "",
-            "prefix": "Z2"
+            "prefix": "^([Z][2].*)"
         },
         {
             "name": "North Macedonia",
             "code": "",
             "flag": "",
-            "prefix": "Z3"
+            "prefix": "^([Z][3].*)"
         },
         {
             "name": "South Sudan",
             "code": "",
             "flag": "",
-            "prefix": "Z8"
-        },
-        {
-            "name": "United Kingdom (and its overseas territories/Crown dependencies)",
-            "code": "",
-            "flag": "",
-            "prefix": "^([2].*)"
+            "prefix": "^([Z][8].*)"
         },
         {
             "name": "Monaco",
             "code": "",
             "flag": "",
-            "prefix": "3A"
+            "prefix": "^([3][A].*)"
         },
         {
             "name": "Mauritius",
             "code": "",
             "flag": "",
-            "prefix": "3B"
+            "prefix": "^([3][B].*)"
         },
         {
             "name": "Equatorial Guinea",
             "code": "",
             "flag": "",
-            "prefix": "3C"
+            "prefix": "^([3][C].*)"
         },
         {
             "name": "-A–3D-M    Swaziland[Note 4]",
             "code": "",
             "flag": "",
-            "prefix": "3D"
+            "prefix": "^([3][D].*)"
         },
         {
             "name": "-N–3D-Z    Fiji[Note 4]",
             "code": "",
             "flag": "",
-            "prefix": "3D"
+            "prefix": "^([3][D].*)"
         },
         {
             "name": "Panama",
@@ -1281,34 +1227,28 @@
             "prefix": "3H–3U"
         },
         {
-            "name": "Tunisia",
-            "code": "",
-            "flag": "",
-            "prefix": "3V"
-        },
-        {
             "name": "Vietnam",
             "code": "",
             "flag": "",
-            "prefix": "3W"
+            "prefix": "^([3][W].*)"
         },
         {
             "name": "Guinea",
             "code": "",
             "flag": "",
-            "prefix": "3X"
+            "prefix": "^([3][X].*)"
         },
         {
             "name": "Norway",
             "code": "",
             "flag": "",
-            "prefix": "3Y"
+            "prefix": "^([3][Y].*)"
         },
         {
             "name": "Poland",
             "code": "",
             "flag": "",
-            "prefix": "3Z"
+            "prefix": "^([3][Z].*)"
         },
         {
             "name": "Mexico",
@@ -1332,19 +1272,19 @@
             "name": "Georgia",
             "code": "",
             "flag": "",
-            "prefix": "4L"
+            "prefix": "^([4][L].*)"
         },
         {
             "name": "Venezuela",
             "code": "",
             "flag": "",
-            "prefix": "4M"
+            "prefix": "^([4][M].*)"
         },
         {
             "name": "Montenegro[Note 2]",
             "code": "",
             "flag": "",
-            "prefix": "4O"
+            "prefix": "^([4][O].*)"
         },
         {
             "name": "Sri Lanka",
@@ -1356,55 +1296,49 @@
             "name": "Peru",
             "code": "",
             "flag": "",
-            "prefix": "4T"
+            "prefix": "^([4][T].*)"
         },
         {
             "name": "United Nations[Note 1]",
             "code": "",
             "flag": "",
-            "prefix": "4U"
+            "prefix": "^([4][U].*)"
         },
         {
             "name": "Haiti",
             "code": "",
             "flag": "",
-            "prefix": "4V"
+            "prefix": "^([4][V].*)"
         },
         {
             "name": "East Timor",
             "code": "",
             "flag": "",
-            "prefix": "4W"
+            "prefix": "^([4][W].*)"
         },
         {
             "name": "Israel",
             "code": "",
             "flag": "",
-            "prefix": "4X"
+            "prefix": "^([4][X].*)"
         },
         {
             "name": "International Civil Aviation Organization[Note 1]",
             "code": "",
             "flag": "",
-            "prefix": "4Y"
+            "prefix": "^([4][Y].*)"
         },
         {
             "name": "Israel",
             "code": "",
             "flag": "",
-            "prefix": "4Z"
+            "prefix": "^([4][Z].*)"
         },
         {
             "name": "Libya",
             "code": "",
             "flag": "",
-            "prefix": "5A"
-        },
-        {
-            "name": "Cyprus",
-            "code": "",
-            "flag": "",
-            "prefix": "5B"
+            "prefix": "^([5][A].*)"
         },
         {
             "name": "Tanzania",
@@ -1440,31 +1374,31 @@
             "name": "Mauritania",
             "code": "",
             "flag": "",
-            "prefix": "5T"
+            "prefix": "^([5][T].*)"
         },
         {
             "name": "Niger",
             "code": "",
             "flag": "",
-            "prefix": "5U"
+            "prefix": "^([5][U].*)"
         },
         {
             "name": "Togo",
             "code": "",
             "flag": "",
-            "prefix": "5V"
+            "prefix": "^([5][V].*)"
         },
         {
             "name": "Western Samoa",
             "code": "",
             "flag": "",
-            "prefix": "5W"
+            "prefix": "^([5][W].*)"
         },
         {
             "name": "Uganda",
             "code": "",
             "flag": "",
-            "prefix": "5X"
+            "prefix": "^([5][X].*)"
         },
         {
             "name": "Kenya",
@@ -1482,7 +1416,7 @@
             "name": "Syria",
             "code": "",
             "flag": "",
-            "prefix": "6C"
+            "prefix": "^([6][C].*)"
         },
         {
             "name": "Mexico",
@@ -1500,7 +1434,7 @@
             "name": "Somalia",
             "code": "",
             "flag": "",
-            "prefix": "6O"
+            "prefix": "^([6][O].*)"
         },
         {
             "name": "Sudan",
@@ -1518,13 +1452,13 @@
             "name": "Madagascar",
             "code": "",
             "flag": "",
-            "prefix": "6X"
+            "prefix": "^([6][X].*)"
         },
         {
             "name": "Jamaica",
             "code": "",
             "flag": "",
-            "prefix": "6Y"
+            "prefix": "^([6][Y].*)"
         },
         {
             "name": "Indonesia",
@@ -1542,31 +1476,31 @@
             "name": "Yemen",
             "code": "",
             "flag": "",
-            "prefix": "7O"
+            "prefix": "^([7][O].*)"
         },
         {
             "name": "Lesotho",
             "code": "",
             "flag": "",
-            "prefix": "7P"
+            "prefix": "^([7][P].*)"
         },
         {
             "name": "Malawi",
             "code": "",
             "flag": "",
-            "prefix": "7Q"
+            "prefix": "^([7][Q].*)"
         },
         {
             "name": "Algeria",
             "code": "",
             "flag": "",
-            "prefix": "7R"
+            "prefix": "^([7][R].*)"
         },
         {
             "name": "Sweden",
             "code": "",
             "flag": "",
-            "prefix": "7S"
+            "prefix": "^([7][S].*)"
         },
         {
             "name": "Algeria",
@@ -1578,7 +1512,7 @@
             "name": "Saudi Arabia",
             "code": "",
             "flag": "",
-            "prefix": "7Z"
+            "prefix": "^([7][Z].*)"
         },
         {
             "name": "Indonesia",
@@ -1596,37 +1530,37 @@
             "name": "Barbados",
             "code": "",
             "flag": "",
-            "prefix": "8P"
+            "prefix": "^([8][P].*)"
         },
         {
             "name": "Maldives",
             "code": "",
             "flag": "",
-            "prefix": "8Q"
+            "prefix": "^([8][Q].*)"
         },
         {
             "name": "Guyana",
             "code": "",
             "flag": "",
-            "prefix": "8R"
+            "prefix": "^([8][R].*)"
         },
         {
             "name": "Sweden",
             "code": "",
             "flag": "",
-            "prefix": "8S"
+            "prefix": "^([8][S].*)"
         },
         {
             "name": "Saudi Arabia",
             "code": "",
             "flag": "",
-            "prefix": "8Z"
+            "prefix": "^([8][Z].*)"
         },
         {
             "name": "Croatia",
             "code": "",
             "flag": "",
-            "prefix": "9A"
+            "prefix": "^([9][A].*)"
         },
         {
             "name": "Iran",
@@ -1644,13 +1578,13 @@
             "name": "Ghana",
             "code": "",
             "flag": "",
-            "prefix": "9G"
+            "prefix": "^([9][G].*)"
         },
         {
             "name": "Malta",
             "code": "",
             "flag": "",
-            "prefix": "9H"
+            "prefix": "^([9][H].*)"
         },
         {
             "name": "Zambia",
@@ -1662,25 +1596,25 @@
             "name": "Kuwait",
             "code": "",
             "flag": "",
-            "prefix": "9K"
+            "prefix": "^([9][K].*)"
         },
         {
             "name": "Sierra Leone",
             "code": "",
             "flag": "",
-            "prefix": "9L"
+            "prefix": "^([9][L].*)"
         },
         {
             "name": "Malaysia",
             "code": "",
             "flag": "",
-            "prefix": "9M"
+            "prefix": "^([9][M].*)"
         },
         {
             "name": "Nepal",
             "code": "",
             "flag": "",
-            "prefix": "9N"
+            "prefix": "^([9][N].*)"
         },
         {
             "name": "Democratic Republic of the Congo",
@@ -1692,31 +1626,31 @@
             "name": "Burundi",
             "code": "",
             "flag": "",
-            "prefix": "9U"
+            "prefix": "^([9][U].*)"
         },
         {
             "name": "Singapore",
             "code": "",
             "flag": "",
-            "prefix": "9V"
+            "prefix": "^([9][V].*)"
         },
         {
             "name": "Malaysia",
             "code": "",
             "flag": "",
-            "prefix": "9W"
+            "prefix": "^([9][W].*)"
         },
         {
             "name": "Rwanda",
             "code": "",
             "flag": "",
-            "prefix": "9X"
+            "prefix": "^([9][X].*)"
         },
         {
             "name": "Trinidad and Tobago",
-            "code": "",
-            "flag": "",
-            "prefix": "9Y–9Z"
+            "code": "TT",
+            "flag": "🇹🇹",
+            "prefix": "^([9][Y–Z].*)"
         }
     ]
 }
