@@ -375,7 +375,7 @@
     {
       "name": "Egypt",
       "flag": "🇪🇬",
-      "prefix": "SSA–SSM"
+      "prefix": "^SS[A-M].*"
     },
     {
       "name": "Egypt",
@@ -430,7 +430,7 @@
     {
       "name": "Fiji",
       "flag": "🇫🇯",
-      "prefix": "3DN–3DZ"
+      "prefix": "^3D[N-Z].*"
     },
     {
       "name": "Finland",
@@ -765,7 +765,7 @@
     {
       "name": "Liechtenstein (uses prefixes allocated to Switzerland)",
       "flag": "🇱🇮",
-      "prefix": "HB (HB0, HB3Y, HBL)"
+      "prefix": "^HB((0)|(3Y)|(BL)).*"
     },
     {
       "name": "Lithuania",
@@ -1265,7 +1265,7 @@
     {
       "name": "Sudan",
       "flag": "🇸🇩",
-      "prefix": "SSN–STZ"
+      "prefix": "^S((S[N-Z])|(T[A-Z])).*"
     },
     {
       "name": "Sudan",
@@ -1280,7 +1280,7 @@
     {
       "name": "Swaziland",
       "flag": "🇸🇿",
-      "prefix": "3DA–3DM"
+      "prefix": "^3D[A-M].*"
     },
     {
       "name": "Sweden",
@@ -1320,7 +1320,7 @@
     {
       "name": "Taiwan",
       "flag": "🇹🇼",
-      "prefix": "B (BM-BQ, BU-BX)"
+      "prefix": "^B(([M-Q])|([U-X])).*"
     },
     {
       "name": "Tajikistan",
