@@ -10,4 +10,8 @@ console.log(ituParser.getInfo("234GDF"));
 
 console.log(ituParser.getInfo("CQ3KHKJ"));
 
-console.log(ituParser.getInfo("EU5JK"));
+console.log(ituParser.getInfo("EU5JK")); // Belarus
+
+console.log(ituParser.getInfo("SSN4K")); // Sudan
+
+console.log(ituParser.getInfo("STZ2K")); // Sudan
