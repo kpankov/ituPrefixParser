@@ -9,3 +9,5 @@ console.log(ituParser.getInfo("G34GDF"));
 console.log(ituParser.getInfo("234GDF"));
 
 console.log(ituParser.getInfo("CQ3KHKJ"));
+
+console.log(ituParser.getInfo("EU5JK"));
