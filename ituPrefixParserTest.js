@@ -15,3 +15,5 @@ console.log(ituParser.getInfo("EU5JK")); // Belarus
 console.log(ituParser.getInfo("SSN4K")); // Sudan
 
 console.log(ituParser.getInfo("STZ2K")); // Sudan
+
+console.log(ituParser.getInfo("BU4HJ")); // Taiwan
