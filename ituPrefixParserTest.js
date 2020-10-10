@@ -17,3 +17,7 @@ console.log(ituParser.getInfo("SSN4K")); // Sudan
 console.log(ituParser.getInfo("STZ2K")); // Sudan
 
 console.log(ituParser.getInfo("BU4HJ")); // Taiwan
+
+console.log(ituParser.getInfo("HB0WAS")); // Liechtenstein
+console.log(ituParser.getInfo("HB3YSD")); // Liechtenstein
+console.log(ituParser.getInfo("HBL8SD")); // Liechtenstein
