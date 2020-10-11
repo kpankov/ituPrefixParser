@@ -11,7 +11,7 @@ module.exports.getInfo = function (callsign) {
     var found = 0;
 
     countries.forEach(function (element) {
-        if (callsign.match(element.prefix) ) {
+        if (callsign.match(element.prefix) && !found) {
             output = element;
             found++;
         }
