@@ -1,4 +1,4 @@
-var ituParser = require("./ituPrefixParser");
+var ituParser = require("../js/ituPrefixParser");
 
 function testCallsing(callsign, country) {
     console.log("Testing callsign "+callsign+" in "+country+"...");

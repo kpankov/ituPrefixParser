@@ -4,7 +4,7 @@
   "description": "ITU prefix parser for HAM callsign",
   "main": "ituPrefixParser.js",
   "scripts": {
-    "test": "node ituPrefixParserTest.js"
+    "test": "node js_tests/ituPrefixParserTest.js"
   },
   "repository": {
     "type": "git",
