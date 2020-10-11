@@ -763,7 +763,7 @@
       "prefix": "^5A.*"
     },
     {
-      "name": "Liechtenstein (uses prefixes allocated to Switzerland)",
+      "name": "Liechtenstein",
       "flag": "🇱🇮",
       "prefix": "^HB((0)|(3Y)|(L)).*"
     },
@@ -778,7 +778,7 @@
       "prefix": "^LX.*"
     },
     {
-      "name": "Macao (Special Administrative Region of the PRC) ",
+      "name": "Macao (Special Administrative Region of the PRC)",
       "flag": "🇲🇴",
       "prefix": "^XX.*"
     },
@@ -1031,6 +1031,11 @@
       "name": "Paraguay",
       "flag": "🇵🇾",
       "prefix": "^ZP.*"
+    },
+    {
+      "name": "Taiwan",
+      "flag": "🇹🇼",
+      "prefix": "^B(([M-Q])|([U-X])).*"
     },
     {
       "name": "People's Republic of China (PRC)",
@@ -1316,11 +1321,6 @@
       "name": "Syria",
       "flag": "🇸🇾",
       "prefix": "^6C.*"
-    },
-    {
-      "name": "Taiwan",
-      "flag": "🇹🇼",
-      "prefix": "^B(([M-Q])|([U-X])).*"
     },
     {
       "name": "Tajikistan",
