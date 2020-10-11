@@ -765,7 +765,7 @@
     {
       "name": "Liechtenstein (uses prefixes allocated to Switzerland)",
       "flag": "🇱🇮",
-      "prefix": "^HB((0)|(3Y)|(BL)).*"
+      "prefix": "^HB((0)|(3Y)|(L)).*"
     },
     {
       "name": "Lithuania",
